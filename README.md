@@ -1,3 +1,6 @@
+> NOTE: This repo is made primarily for the domain `arrdomingo.tech`. The said domain was purchased in [tech domains](https://get.tech/) and did some tweaks here on github pages. See tutorials on how to setup such thing in "Helpful References" below. This repo is originally from snowman07.github.io/arrpogi 
+> 
+
 # `This is my personal portfolio`
 
 This is a static, responsive, mobile-first approach personal website where I can showcase my academic projects and skills. Also in this website is my IT experience and my profile (including educational background).
