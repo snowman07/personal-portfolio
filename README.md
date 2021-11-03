@@ -1,4 +1,4 @@
-> NOTE: This repo is made primarily for the domain `arrdomingo.tech`. The said domain was purchased in [tech domains](https://get.tech/) and did some tweaks here on github pages. See tutorials on how to setup such thing in "Helpful References" below. This repo is originally from snowman07.github.io/arrpogi 
+> NOTE: This repo is made primarily for the domain `arrdomingo.tech`. The said domain was purchased in [tech domains](https://get.tech/) and did some tweaks here on github pages as well as on the control panel of techdomains. See tutorials on how to setup such thing in "Helpful References" below. This repo is originally from snowman07.github.io/arrpogi 
 > 
 
 # `This is my personal portfolio`
